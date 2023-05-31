@@ -1,11 +1,9 @@
 <h1 align="center"> ⚡️ DevFolio ⚡️</h1>
 
-[![Github](https://img.shields.io/github/license/anilseervi/DevFolio?color=%2312c2e9&logo=github&style=for-the-badge)](https://github.com/AnilSeervi/DevFolio/blob/master/README.md) ![Github Stars](https://img.shields.io/github/stars/anilseervi/DevFolio?color=%23c471ed&style=for-the-badge) ![Github forks](https://img.shields.io/github/forks/anilseervi/DevFolio?color=%23f64f59&style=for-the-badge) ![GitHub deployments](https://img.shields.io/github/deployments/anilseervi/DevFolio/github-pages?label=Deploy&logo=github&style=for-the-badge)
-
 ## A Modern Portfolio Template for Developers!
 
 <h2 align="center">
-  <img src="assets/devfolio.gif" alt="Devfolio" />
+  <img src="assets/ss.png" alt="Devfolio" />
 </h2>
 
 ## Features
@@ -18,9 +16,9 @@
 ⚡️ Valid HTML5 & CSS3\
 ⚡ Fast and SEO Optimized
 
-To view a demo example, **[Click Here](https://devfolio.js.org)**\
-To view a live example, **[Click Here](https://anilseervi.github.io/Portfolio/)**\
-To view live example repo, **[Click Here](https://github.com/AnilSeervi/Portfolio/)**
+To view a demo example, **[Click Here](https://euclidstellar.vercel.app)**\
+To view a live example, **[Click Here](https://euclidstellar.vercel.app)**\
+To view live example repo, **[Click Here](https://github.com/euclidstellar/DevFolio)**
 
 ## Getting Started 🚀
 
@@ -40,8 +38,7 @@ In VSCode, Open the terminal(<kbd>Ctrl</kbd>+<kbd>\\</kbd> ) and clone the DevFo
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/AnilSeervi/DevFolio.git
-
+$ git clone https://github.com/EuclidStellar/DevFolio.git
 # Go into the repository
 $ cd DevFolio
 
@@ -305,7 +302,7 @@ $secondary-color: #5b86e5;
 
 ## Authors
 
-- **Anil Seervi** - [https://github.com/AnilSeervi](https://github.com/AnilSeervi)
+- **Anil Seervi** - [https://github.com/AnilSeervi](https://github.com/euclidstellar)
 
 ## License 📄
 
