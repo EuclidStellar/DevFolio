@@ -302,7 +302,7 @@ $secondary-color: #5b86e5;
 
 ## Authors
 
-- **Anil Seervi** - [https://github.com/AnilSeervi](https://github.com/euclidstellar)
+- **Gaurav Singh** - [https://github.com/euclidstellar](https://github.com/euclidstellar)
 
 ## License 📄
 
